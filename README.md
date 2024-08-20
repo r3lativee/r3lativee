@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, Shashanka Gogoi Here </h1>
+<h1 align="center">Hi, Shashanka Gogoi Here </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=500&color=8939F7&center=true&vCenter=false&width=435&lines=I+am+a+Programer;+,Designer+and+3D.Artist" alt="Typing SVG" />
