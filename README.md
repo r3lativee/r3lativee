@@ -12,7 +12,7 @@
 <!--- 🌱 I’m currently exploring different domains of tech.-->
 - 🌱 I’m currently working on my Personal Projects.
 - 👯 I would be happy to collaborate with other developers.
-- ⚡ I like programming a lot more then I should.
+- ⚡ I like programming as well as Designing and Developing things.
 
 <hr>
 
@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://https://github.com/r3lativee"></a>
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sand-delta.vercel.app?user=Sawansunar56&theme=tokyonight&card_width=467" alt="GitHub Streak" /></a> -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r3lativee&theme=dark&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 <p align="left">
   <a href="https://https://github.com/r3lativee">
