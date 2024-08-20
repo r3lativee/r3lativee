@@ -62,23 +62,3 @@
 
 <hr>
 
-<h2>👋 My Socials</h2>
-
-<p align="">
- 
-<!-- <img src="https://img.shields.io/badge/-zerodayrat-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/" /> -->
-<!-- <img src="https://img.shields.io/badge/-zerodayrat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:" /> -->
-<a href="https://www.linkedin.com/in/shashanka-gogoi-93201516b/">
-<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sawan-sunar-618a3b247/" /> -->
-  
-</a>
-<!-- <a href="https://twitter.com/SunarSawan7042"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SunarSawan7042" /></a> -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00"/></a> -->
-<!-- <a href="https://tryhackme.com/p/FangX"> <img src="https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white"/></a> -->
-
-</p>
-
-<!---
-Sawansunar56/Sawansunar56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
