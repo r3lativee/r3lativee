@@ -12,7 +12,7 @@
 <!--- 🌱 I’m currently exploring different domains of tech.-->
 - 🌱 I’m currently working on my Personal Projects.
 - 👯 I would be happy to collaborate with other developers.
-- ⚡ I like programming as well as Designing and Developing things.
+- ⚡ I like programming as well as Designing and Developing something new.
 
 <hr>
 
