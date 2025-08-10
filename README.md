@@ -15,8 +15,7 @@
 - ⚡ I like programming as well as Designing and Developing something new.
 
 <hr>
-<h2> Cyber Security </h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=309250" style='border:none;'></iframe>
+
 <h2>👨‍💻 Tech Experience</h2>
 
 <p>
