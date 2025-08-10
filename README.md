@@ -15,7 +15,8 @@
 - ⚡ I like programming as well as Designing and Developing something new.
 
 <hr>
-
+<h2> Cyber Security </h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Tadashi.png" alt="Your Image Badge" />
 <h2>👨‍💻 Tech Experience</h2>
 
 <p>
