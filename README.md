@@ -59,11 +59,7 @@
   <a href="https://https://github.com/r3lativee"></a>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r3lativee&theme=dark&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
-<p align="left">
-  <a href="https://https://github.com/r3lativee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3lativee&langs_count=15&theme=tokyonight&layout=compact&card_width=937" alt="Top Langs" /> 
-  </a>
-</p>
+
 
 
 <hr>
